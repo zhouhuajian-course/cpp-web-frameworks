@@ -1,0 +1,3 @@
+/mysql-source-code-analysis/cpp-web-frameworks/oatpp-test/build/CMakeFiles/simple-server.dir
+/mysql-source-code-analysis/cpp-web-frameworks/oatpp-test/build/CMakeFiles/edit_cache.dir
+/mysql-source-code-analysis/cpp-web-frameworks/oatpp-test/build/CMakeFiles/rebuild_cache.dir

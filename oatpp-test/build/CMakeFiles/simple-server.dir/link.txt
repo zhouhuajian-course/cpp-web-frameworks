@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-11/root/bin/c++ "CMakeFiles/simple-server.dir/main.cpp.o" -o simple-server   -L/usr/local/lib64/oatpp-1.3.0  -Wl,-rpath,/usr/local/lib64/oatpp-1.3.0 -lpthread -loatpp 
